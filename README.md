@@ -6,7 +6,7 @@
     ├── README.md                  <- The project layout (this file)
     ├── zippedData                 <- This is where the project data is located
     │
-    ├── student.ipynb              <- This is the main notebook 
+    ├── student.ipynb              <- This is the main notebook (contains the python code)
     │
     ├── reports                    <- Reports and presentations
     │   └── presentation.pdf       <- Non-technical presentation
